@@ -2,17 +2,17 @@
     "name": "verdient/hyperf3-database-listen",
     "type": "library",
     "require": {
-        "hyperf/contract": "^3.1",
-        "hyperf/di": "^3.1",
-        "hyperf/event": "^3.1",
-        "hyperf/framework": "^3.1",
-        "hyperf/process": "^3.1",
-        "hyperf/server": "^3.1",
-        "hyperf/support": "^3.1",
+        "hyperf/contract": "^3.2",
+        "hyperf/di": "^3.2",
+        "hyperf/event": "^3.2",
+        "hyperf/framework": "^3.2",
+        "hyperf/process": "^3.2",
+        "hyperf/server": "^3.2",
+        "hyperf/support": "^3.2",
         "psr/container": "^2.0",
-        "verdient/hyperf3-database": "^2.0",
-        "verdient/hyperf3-logger": "^2.0",
-        "verdient/hyperf3-utils": "^1.0"
+        "verdient/hyperf3-database": "^2.1",
+        "verdient/hyperf3-logger": "^2.1",
+        "verdient/hyperf3-utils": "^2.1"
     },
     "require-dev": {
         "swoole/ide-helper": "^6.0"
